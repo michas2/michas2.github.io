@@ -1,0 +1,5 @@
+.reveal { font-size: 37px; }
+.reveal pre { font-size: 0.38em; }
+.reveal pre code {  max-height: 600px; }
+.reveal table td { border-bottom-style: none; padding: 0.1em 2.5em 0.1em 0.5em; }
+.reveal table th { padding: 0.1em 2.5em 0.1em 0.5em; }
